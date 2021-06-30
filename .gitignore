@@ -1,4 +1,4 @@
 logs/
 .idea/
-/Implementation/__pycache__/
-/Implementation/Models/*.h5
+/__pycache__/
+/Models/*.h5
